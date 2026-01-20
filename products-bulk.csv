@@ -1,0 +1,56 @@
+name,description,price,category,image1,alt1
+Classic Blue Jeans,Timeless blue jeans with a straight fit.,59.99,jeans,/images/products/jeans/jeans1.jpg,Classic Blue Jeans front
+Slim Fit Black Jeans,Modern slim fit black jeans for all occasions.,69.99,jeans,/images/products/jeans/jeans2.jpg,Slim Fit Black Jeans front
+Distressed Denim Jeans,Trendy distressed jeans with a relaxed fit.,74.99,jeans,/images/products/jeans/jeans3.jpg,Distressed Denim Jeans front
+Cargo Jeans,Utility cargo jeans with extra pockets.,64.99,jeans,/images/products/jeans/jeans4.jpg,Cargo Jeans front
+Tapered Fit Jeans,Tapered fit jeans for a modern silhouette.,62.99,jeans,/images/products/jeans/jeans5.jpg,Tapered Fit Jeans front
+Light Wash Jeans,Light wash jeans for a casual look.,58.99,jeans,/images/products/jeans/jeans6.jpg,Light Wash Jeans front
+Ripped Skinny Jeans,Skinny jeans with ripped details.,69.99,jeans,/images/products/jeans/jeans7.jpg,Ripped Skinny Jeans front
+Bootcut Jeans,Classic bootcut jeans for boots lovers.,65.99,jeans,/images/products/jeans/jeans8.jpg,Bootcut Jeans front
+High Rise Jeans,High rise jeans for a flattering fit.,67.99,jeans,/images/products/jeans/jeans9.jpg,High Rise Jeans front
+Vintage Wash Jeans,Vintage wash jeans with retro vibes.,72.99,jeans,/images/products/jeans/jeans10.jpg,Vintage Wash Jeans front
+Straight Leg Jeans,Classic straight leg jeans for everyday wear.,61.99,jeans,/images/products/jeans/jeans11.jpg,Straight Leg Jeans front
+
+White Oxford Shirt,Classic white oxford shirt for formal and casual wear.,49.99,shirts,/images/products/shirts/shirt1.jpg,White Oxford Shirt front
+Striped Polo Shirt,Cotton polo with subtle stripes.,39.99,shirts,/images/products/shirts/shirt2.jpg,Striped Polo Shirt
+Denim Shirt,Button-up denim shirt with rolled sleeves.,44.99,shirts,/images/products/shirts/shirt3.jpg,Denim Shirt front
+Flannel Shirt,Warm flannel shirt for winter.,42.99,shirts,/images/products/shirts/shirt4.jpg,Flannel Shirt
+Linen Button-Up Shirt,Breathable linen shirt for summer.,46.99,shirts,/images/products/shirts/shirt5.jpg,Linen Button-Up Shirt
+Graphic Print T-Shirt,Cotton t-shirt with unique graphic print.,29.99,shirts,/images/products/shirts/shirt6.jpg,Graphic Print T-Shirt
+Short Sleeve Shirt,Lightweight short sleeve shirt.,34.99,shirts,/images/products/shirts/shirt7.jpg,Short Sleeve Shirt
+Plaid Shirt,Classic plaid shirt for layering.,41.99,shirts,/images/products/shirts/shirt8.jpg,Plaid Shirt
+Mandarin Collar Shirt,Modern mandarin collar shirt.,38.99,shirts,/images/products/shirts/shirt9.jpg,Mandarin Collar Shirt
+Chambray Shirt,Soft chambray shirt for a relaxed look.,43.99,shirts,/images/products/shirts/shirt10.jpg,Chambray Shirt
+Button-Down Shirt,Elegant button-down shirt for office wear.,47.99,shirts,/images/products/shirts/shirt11.jpg,Button-Down Shirt
+Casual Blouse,Flowy casual blouse for everyday comfort.,36.99,shirts,/images/products/shirts/shirt12.jpg,Casual Blouse
+Henley Shirt,Classic henley shirt with three buttons.,32.99,shirts,/images/products/shirts/shirt13.jpg,Henley Shirt
+
+Leather Sneakers,Premium leather sneakers with cushioned sole.,89.99,shoes,/images/products/shoes/shoes1.jpg,Leather Sneakers side
+Canvas Shoes,Comfortable canvas shoes for everyday use.,49.99,shoes,/images/products/shoes/shoes2.jpg,Canvas Shoes
+Running Shoes,High-performance running shoes for athletes.,99.99,shoes,/images/products/shoes/shoes3.jpg,Running Shoes
+High-Top Sneakers,Retro high-top sneakers with platform sole.,79.99,shoes,/images/products/shoes/shoes4.jpg,High-Top Sneakers front
+Boots,Waterproof leather boots for all weather.,109.99,shoes,/images/products/shoes/shoes5.jpg,Boots front
+Sandals,Comfortable leather sandals for summer.,39.99,shoes,/images/products/shoes/shoes6.jpg,Sandals
+Slip-On Shoes,Easy slip-on shoes for quick wear.,44.99,shoes,/images/products/shoes/shoes7.jpg,Slip-On Shoes
+Loafers,Classic loafers for formal occasions.,69.99,shoes,/images/products/shoes/shoes8.jpg,Loafers
+Derby Shoes,Elegant derby shoes for business.,89.99,shoes,/images/products/shoes/shoes9.jpg,Derby Shoes
+Espadrilles,Lightweight espadrilles for casual outings.,34.99,shoes,/images/products/shoes/shoes10.jpg,Espadrilles
+Basketball Shoes,Performance basketball shoes with ankle support.,119.99,shoes,/images/products/shoes/shoes11.jpg,Basketball Shoes
+Hiking Boots,Durable hiking boots for outdoor adventures.,129.99,shoes,/images/products/shoes/shoes12.jpg,Hiking Boots
+Dress Shoes,Polished dress shoes for formal events.,99.99,shoes,/images/products/shoes/shoes13.jpg,Dress Shoes
+Flip Flops,Casual flip flops for beach and pool.,24.99,shoes,/images/products/shoes/shoes14.jpg,Flip Flops
+Moccasins,Comfortable moccasins for casual wear.,59.99,shoes,/images/products/shoes/shoes15.jpg,Moccasins
+Chelsea Boots,Classic chelsea boots with elastic sides.,89.99,shoes,/images/products/shoes/shoes16.jpg,Chelsea Boots
+Combat Boots,Stylish combat boots for edgy looks.,94.99,shoes,/images/products/shoes/shoes17.jpg,Combat Boots
+
+Classic Cotton Hoodie,Soft cotton hoodie with kangaroo pocket.,59.99,hoodies,/images/products/hoodies/hoodie1.jpg,Classic Cotton Hoodie front
+Zip-Up Hoodie,Full-zip hoodie with front pockets.,64.99,hoodies,/images/products/hoodies/hoodie2.jpg,Zip-Up Hoodie
+Crewneck Sweatshirt,Classic crewneck sweatshirt with ribbed cuffs.,54.99,hoodies,/images/products/hoodies/hoodie3.jpg,Crewneck Sweatshirt
+Bomber Jacket,Lightweight bomber jacket with quilted lining.,79.99,hoodies,/images/products/hoodies/hoodie4.jpg,Bomber Jacket front
+Oversized Hoodie,Trendy oversized hoodie for a relaxed look.,69.99,hoodies,/images/products/hoodies/hoodie5.jpg,Oversized Hoodie
+Pullover Hoodie,Simple pullover hoodie for daily wear.,59.99,hoodies,/images/products/hoodies/hoodie6.jpg,Pullover Hoodie
+Fleece Hoodie,Warm fleece hoodie for winter.,64.99,hoodies,/images/products/hoodies/hoodie7.jpg,Fleece Hoodie
+Tech Hoodie,Modern tech hoodie with zip pockets.,74.99,hoodies,/images/products/hoodies/hoodie8.jpg,Tech Hoodie
+Cropped Hoodie,Fashionable cropped hoodie for women.,49.99,hoodies,/images/products/hoodies/hoodie9.jpg,Cropped Hoodie
+Tie-Dye Hoodie,Colorful tie-dye hoodie for a bold look.,69.99,hoodies,/images/products/hoodies/hoodie10.jpg,Tie-Dye Hoodie
+Varsity Jacket,Classic varsity jacket with leather sleeves.,84.99,hoodies,/images/products/hoodies/hoodie11.jpg,Varsity Jacket
