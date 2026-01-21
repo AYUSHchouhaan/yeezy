@@ -4,8 +4,6 @@ import { products, categories } from './db/schema';
 async function deleteAllData() {
   try {
     console.log('🗑️  Deleting all data from database...\n');
-
-    // Delete all products first (to avoid foreign key constraints if they exist)
     const deletedProducts = await db.delete(products);
     console.log('✓ Deleted all products');
 

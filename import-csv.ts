@@ -27,7 +27,7 @@ async function importProductsFromCSV(csvFilePath: string) {
       trim: true,
     });
 
-    console.log(`✅ Found ${records.length} products to import\n`);
+    console.log(` Found ${records.length} products to import\n`);
 
     let successCount = 0;
     let errorCount = 0;
