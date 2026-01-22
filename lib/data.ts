@@ -23,7 +23,6 @@ export const navBarData = [
   },
 ];
 
-// Dynamic navigation data from database
 export async function getNavBarData() {
   try {
     const categories = await getCategories();
@@ -34,6 +33,6 @@ export async function getNavBarData() {
     }));
   } catch (error) {
     console.error('Error fetching categories for navigation:', error);
-    return navBarData; // Fallback to static data
+    return navBarData; 
   }
 }
