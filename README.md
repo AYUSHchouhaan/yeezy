@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Yeezy
 
-## Getting Started
+A Next.js storefront for browsing and purchasing clothing products. The app uses the Next.js App Router, a Drizzle/PostgreSQL data layer, local product imagery, and a client-side cart provider.
 
-First, run the development server:
+## What is included
+
+- Homepage with products grouped by category
+- Category listing pages at `/<category>`
+- Product detail pages at `/<category>/<product-id>`
+- Product quantity and cart actions
+- Related-product recommendations on product pages
+- Shared header and cart state through `CartProvider`
+- Image-prefetch API at `/api/prefetch-images/<path>`
+- Database scripts for generating, migrating, pushing, seeding, and inspecting data
+- Product images in `public/images/products` for hoodies, jeans, shirts, and shoes
+
+## Tech stack
+
+- Next.js 15 with React 19 and the App Router
+- TypeScript
+- Tailwind CSS 4
+- Drizzle ORM with PostgreSQL
+- Radix UI, Lucide React, React Hook Form, and Zod
+
+## Getting started
+
+Install dependencies, then start the development server:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The database must be configured for the Drizzle files before using database-backed pages or seed commands. Available database scripts are:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run db:generate
+npm run db:migrate
+npm run db:push
+npm run db:seed
+npm run db:studio
+```
 
-## Learn More
+## Other commands
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+npm run start
+npm run lint
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The application metadata identifies the project as **yeezy** and uses the DM Mono font globally.
